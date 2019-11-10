@@ -6,7 +6,7 @@ This repository contains the code and data used to generate the results and some
 *Iurii Shendryk, Jeremy Sofonia, Robert Garrard, Yannik Rist, Danielle Skocaj, and Peter Thorburn* (2019). Fine-scale Prediction of Leaf Nitrogen Content and Yield in Sugarcane using UAV LiDAR and Multispectral Imaging. 
 
 
-
+The notebook contains a section in which we compare the predictions of our model to an independent data set collected by Sugar Research Australia. We do not have permission to publish their data set, so the corresponding section of the notebook will not execute.
 
 
    
